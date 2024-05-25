@@ -45,4 +45,4 @@ if __name__ == "__main__":
     try:
         time.sleep(60)  # Run the attack for 60 seconds
     finally:
-        stop_safe_flood(threads)
+        stop_safe_flood(thread
